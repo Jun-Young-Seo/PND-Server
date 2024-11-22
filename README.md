@@ -88,3 +88,7 @@ Youtube : https://youtu.be/xqzVTz0mM-Q
  - [김혜진](https://github.com/khyaejin) : BE
  - [서준영](https://github.com/Jun-Young-Seo) : FE
  - [정예빈](https://github.com/benniejung) : FE
+
+## 🎨
+![P-ND 판넬_최최종(시스템디자인단순화버전)_1](https://github.com/user-attachments/assets/66f86428-1efe-4fdb-88f5-78489f429bfc)
+
